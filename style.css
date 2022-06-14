@@ -1,0 +1,27 @@
+h1{
+    color: rgb(241, 9, 24);
+}
+h2 {
+    color: rgb(41, 32, 204);
+}
+
+
+.cor-cabecalho-produto {
+    background-color: #BB86FC;
+    margin: 30px;
+}
+
+.cor-cabecalho-texto {
+    background-color: rgb(104, 98, 128);
+    margin: 30px;
+}
+ 
+.cor-cabecalho-produto1 {
+    background-color: #00C4B4;
+    margin: 30px;
+}
+
+.cor-cabecalho-texto2 {
+    background-color: rgb(104, 98, 128);
+    margin: 30px;
+}
